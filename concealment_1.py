@@ -3,18 +3,19 @@
 
 
 def readWords(fName):
-    f = open(fName)
-    all = f.read()
-    words = all.split()
-    print(all, "\n")
-    count = -1
-    list_len = len(words)
-    for x in words:
-        count += 3
-        if count < list_len:
-            print(words[count])
-
-    f.close()
+    try:
+        with open(fName) as f:
+            all = f.read()
+            words = all.split()
+            print(all, "\n")
+            count = -1
+            list_len = len(words)
+            for x in words:
+                count += 3
+                if count < list_len:
+                    print(words[count])
+    except FileNotFoundError:
+        all = None
 
 
 while True:
