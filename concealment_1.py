@@ -1,5 +1,5 @@
 # Every 3rd word of a text file will be displayed
-# Concealment_1.txt can be used to test
+# Concealment_1.txt is used to test
 
 
 def readWords(fName):
