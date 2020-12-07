@@ -1,0 +1,234 @@
+https://inteltechniques.com/podcast.html
+----------------------------------------------------
+EPISODE 198-New OSINT Strategies (Offense & Defense)
+----------------------------------------------------
+https://www.heise.de/news/Gericht-zwingt-Mailprovider-Tutanota-zu-Ueberwachungsfunktion-4972460.html
+
+https://support.mysudo.com/hc/en-us/articles/360056066873-How-to-add-someone-to-join-an-active-group-video-call-
+
+https://nrkbeta.no/2020/12/03/my-phone-was-spying-on-me-so-i-tracked-down-the-surveillants/
+
+https://dissenter.com/
+https://gab.com/
+https://services.normshield.com/data-breach/cnn.com
+https://services.normshield.com/data-breach/test@cnn.com
+https://www.revealname.com/618-463-3505
+
+
+CA 52
+pimeyes
+inspector
+
+Venntel
+Gravy Analytics
+Predicio in France and Complementics in the U.S.
+Slovak app developer called Sygic, which have a portfolio of 70 different apps
+We won’t see any change without massive fines and data processing ban
+----------------------------------------------------
+EPISODE 195-Email Reputation & QR Scanning
+----------------------------------------------------
+https://qrscanneronline.com/
+
+https://emailrep.io
+https://www.expireddomains.net/deleted-domains
+https://www.name.com/domain/search
+
+----------------------------------------------------
+EPISODE 194-Dealing With Drones & New Foreign Residency Options
+----------------------------------------------------
+https://www.youtube.com/watch?v=k6x6bf93ojQ
+
+FOREIGN RESIDENCY PROGRAMS:
+
+Antigua and Barbuda
+Bahamas
+Barbados
+Bermuda
+Cayman
+
+https://travelwithdrone.com/
+http://www.dronelancer.io/
+https://hireadronepro.com/
+http://www.hireuavpro.com/
+----------------------------------------------------
+EPISODE 193-Credit Cards & Campaign Data
+----------------------------------------------------
+https://banking.citi.com/cbol/updatemyname/default.htm
+https://www.mastercard.us/en-us/vision/who-we-are/pride.html
+
+https://inteltechniques.com/messaging.html
+
+https://www.fec.gov/data/browse-data/?tab=bulk-data
+----------------------------------------------------
+EPISODE 191-Privacy, Security, & OSINT Updates
+----------------------------------------------------
+https://www.wired.com/story/apple-t2-chip-unfixable-flaw-jailbreak-mac/
+
+https://protonmail.com/blog/sso-beta/
+
+https://www.privateinternetaccess.com/pages/network/
+
+https://www.roadtovr.com/oculus-facebook-account-required-new-users-existing-users/
+
+https://themarkup.org/blacklight/?url=cnn.com
+----------------------------------------------------
+EPISODE 190-Plant Your Flag (Revisited)
+----------------------------------------------------
+https://krebsonsecurity.com/2020/08/why-where-you-should-you-plant-your-flag/
+
+https://my.equifax.com/consumer-registration/UCSC/#/personal-info
+https://usa.experian.com/registration
+https://service.transunion.com/dss/orderStep1_form.page?
+
+
+https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin
+https://www.eftps.gov/eftps/
+
+https://informeddelivery.usps.com/box/pages/intro/start.action
+----------------------------------------------------
+EPISODE 189-iOS 14, Usenet, and Self-Publishing
+----------------------------------------------------
+https://inteltechniques.com/book8.html
+
+https://www.apple.com/ios/ios-14/
+
+https://www.usenetarchives.com
+http://binzb.com
+http://www.binsearch.net
+----------------------------------------------------
+EPISODE 187-Offense/Defense: IP Loggers
+----------------------------------------------------
+https://inteltechniques.com/logger/
+https://github.com/AmIJesse/LinkBait
+----------------------------------------------------
+EPISODE 185-OSINT Tips, Tools, & Training
+----------------------------------------------------
+https://pimeyes.com
+https://www.judyrecords.com
+https://github.com/nlitsme/youtube_tool
+https://vscodium.com/
+https://atom.io/
+33mail in breaches
+Videos & Streams
+https://github.com/rowrawer/stream-detector
+----------------------------------------------------
+EPISODE 182-How to Disappear: Part One
+----------------------------------------------------
+https://inteltechniques.com/blog/2020/08/02/securely-storing-contacts-within-password-managers/
+
+https://media.defense.gov/2020/Aug/04/2002469874/-1/-1/0/CSI_LIMITING_LOCATION_DATA_EXPOSURE_FINAL.PDF
+
+http://pretendradio.org/
+----------------------------------------------------
+EPISODE 177-Privacy Crash Course 04: Computer Configuration
+----------------------------------------------------
+OOSU10 (Free): https://www.oo-software.com/en/shutup10
+Glasswire (Free): https://www.glasswire.com
+Patch My PC (Free): https://patchmypc.com/home-updater-download
+KnockKnock (Free): https://objective-see.com/products/knockknock.html
+Little Snitch ($): https://obdev.at/products/littlesnitch/index.html
+Lulu (Free): https://objective-see.com/products/lulu.html
+MacUpdater ($): https://www.corecode.io/macupdater/
+BleachBit (Free): https://www.bleachbit.org/
+Veracrypt (Free): https://www.veracrypt.fr/en/Introduction.html
+----------------------------------------------------
+EPISODE 176-Privacy Crash Course 03: Mobile Devices
+----------------------------------------------------
+Apple: iPhone SE (New version)
+Android: Pixel 3a (https://amzn.to/31eRnc0)
+LineageOS: https://lineageos.org/
+GrapheneOS: https://grapheneos.org/
+
+Mint: https://amzn.to/3fZBB91
+
+Lockdown Firewall: https://lockdownhq.com/
+NetGuard Firewall: https://www.netguard.me/
+Firefox Focus: https://support.mozilla.org/en-US/kb/focus
+
+Camera Stickers: https://amzn.to/2NqaW98
+Mic Blocker (3.5mm): https://amzn.to/385fDyP
+Mic Blocker (Lightening): https://amzn.to/3i1SSQK
+
+MySudo: https://mysudo.com/
+Linphone: https://www.linphone.org/
+Twilio: www.twilio.com/referral/9FGpxr
+Faraday Bags: https://amzn.to/2B6XSTJ
+----------------------------------------------------
+EPISODE 175-Privacy Crash Course 02: Email & Messengers
+----------------------------------------------------
+Protonmail: http://proton.go2cloud.org/aff_c?offer_id=15&aff_id=1519
+Tutanota: https://tutanota.com/
+Anonaddy: https://anonaddy.com/
+Simple Login: https://simplelogin.io/
+CheckTLS: https://www.checktls.com/
+Signal: https://signal.org
+Wickr: https://wickr.com/
+Wire: https://wire.com/en/download/
+MySudo: https://mysudo.com/
+Session: https://getsession.org/
+Book: Extreme Privacy-Second Edition
+----------------------------------------------------
+EPISODE 174-Privacy Crash Course 01: Passwords & 2FA
+----------------------------------------------------
+BitWarden: https://bitwarden.com/
+KeePassXC: https://keepassxc.org/
+KeePassXC Browser: https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/
+Yubikey: https://amzn.to/2HZlT0Z
+OnlyKey: https://amzn.to/2CVUF7l
+Authy: https://authy.com/
+Simple Login: https://simplelogin.io/
+
+https://inteltechniques.com/blog/2020/06/08/apple-id-creation-update/
+https://www.coindesk.com/brave-browsers-affiliate-link-controversy-explained
+----------------------------------------------------
+EPISODE 172-RSS for Privacy & OSINT
+----------------------------------------------------
+https://nullsweep.com/why-is-this-website-port-scanning-me/
+UBO > Dashboard > My Filters > *$websocket
+Test: https://websocketstest.com/
+https://www.bbc.com/news/technology-52758787
+https://www.forbes.com/sites/gordonkelly/2020/05/21/apple-iphone-ipad-privacy-siri-recordings-ios-upgrade-iphone-11-pro-max-update/#24d5d7af3fc5
+https://www.npr.org/2020/05/21/858155045/she-gets-calls-and-texts-meant-for-elon-musk-some-are-pretty-weird
+http://pretendradio.org/covid-19-scams-how-to-steal-a-stimulus-check/
+
+Linux: https://jangernert.github.io/FeedReader
+Mac: https://www.vienna-rss.com/
+Blog example: https://inteltechniques.com/blog/feed/
+Forum example: https://raidforums.com/syndication.php?fid=153&limit=15
+Podcast example: https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss
+http://getrssfeed.com
+http://queryfeed.net/
+http://rss.app
+https://nitter.net
+https://www.reddit.com/r/privacy/.rss
+https://www.reddit.com/r/technology/top.rss?t=day
+https://www.reddit.com/search.rss?q=search+terms&sort=new
+https://www.reddit.com/user/inteltechniques/.rss
+https://www.reddit.com/domain/inteltechniques.com/.rss
+
+https://www.faganfinder.com/
+----------------------------------------------------
+EPISODE 169-This Week in Privacy
+----------------------------------------------------
+Firefox Private Relay: https://relay.firefox.com/
+Proton Apps Open Source: https://protonvpn.com/blog/open-source/
+Tipsters Exposed: https://nypost.com/2020/05/04/st-louis-social-distance-tipsters-doxxed-on-social-media/
+GoDaddy Breach: https://www.engadget.com/go-daddy-confirms-security-breach-120534835.html
+----------------------------------------------------
+EPISODE 167-This Week In Privacy & OSINT
+----------------------------------------------------
+Zoom Cleaning: https://github.com/kris-anderson/remove-zoom-macos
+MySudo Android: https://twitter.com/MySudoApp/status/1253373325822345218
+MySudo Virtual Cards: https://support.mysudo.com/hc/en-us/articles/360043197173-What-are-MySudo-virtual-cards-and-how-do-they-work-
+Officer Doxing: https://www.huffpost.com/entry/ammon-bundy-protest-idaho-anti-vaxxer_n_5ea0b7d5c5b69150246cfbfc
+
+https://www.neutrinoapi.com/account/tools/
+https://portswigger.net/daily-swig/pastebin-hints-at-new-research-subscription-model-after-axing-scraping-api
+https://inteltechniques.com/firewall/
+----------------------------------------------------
+EPISODE 165-What Amazon & Twitter Knows About You (and Me)
+----------------------------------------------------
+https://help.twitter.com/en/safety-and-security/data-through-partnerships
+https://www.amazon.com/gp/help/customer/display.html?nodeId=G5NBVNN2RHXD5BUW
+https://www.amazon.com/gp/help/customer/display.html?nodeId=GDK92DNLSGWTV6MP
+----------------------------------------------------
